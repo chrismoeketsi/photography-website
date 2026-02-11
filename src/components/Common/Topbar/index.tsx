@@ -9,7 +9,7 @@ const Topbar = ({ setOpenNav, openNav }: TopbarProps) => {
   return (
     <TopbarWrapper>
       <TopbarInner>
-        <h4>Jacob Grönberg</h4>
+        <h4>Thabang Moeketsi</h4>
 
         <Hamburger
           className={openNav ? 'add_styles' : ''}
