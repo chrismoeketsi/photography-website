@@ -66,10 +66,10 @@ const Preloader = ({ playAnimation }: { playAnimation: boolean }) => {
       <PreloaderWrapper ref={wrapperRef}>
         <PreloaderInner>
           <h1>
-            <span ref={spanOne}>Jacob</span>
+            <span ref={spanOne}>Thabang</span>
           </h1>
           <h1>
-            <span ref={spanTwo}>Grønberg</span>
+            <span ref={spanTwo}>Moeketsi</span>
           </h1>
         </PreloaderInner>
       </PreloaderWrapper>
