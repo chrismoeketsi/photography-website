@@ -37,8 +37,8 @@ const HeroSection = () => {
               once: true,
             }}
           >
-            <HeroText title="Jacob" />
-            <HeroText title="Grønberg" />
+            <HeroText title="Thabang" />
+            <HeroText title="Moeketsi" />
           </MainText>
           <SubText
             variants={containerVariant}
