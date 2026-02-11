@@ -13,7 +13,7 @@ const Footer = () => {
     <FooterWrapper>
       <FooterTopSection>
         <FooterLeftSection>
-          <h1>Jacob Grønberg</h1>
+          <h1>Thabang Moeketsi</h1>
           <p>Photograph & Visual Artist</p>
         </FooterLeftSection>
         <FooterLinksCtn>

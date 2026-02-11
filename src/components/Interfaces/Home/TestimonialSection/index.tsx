@@ -22,7 +22,7 @@ gsap.registerPlugin(ScrollTrigger);
 const testimonials = [
   {
     image: testimony_1,
-    testimony: 'I Really Enjoyed Working With Jacob',
+    testimony: 'I Really Enjoyed Working With Thabang',
     details: [
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
       'Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Laoreet sit amet cursus sit amet dictum sit amet justo.',
@@ -32,7 +32,7 @@ const testimonials = [
   },
   {
     image: testimony_2,
-    testimony: 'I Really Enjoyed Working With Jacob',
+    testimony: 'I Really Enjoyed Working With Thabang',
     details: [
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     ],
@@ -41,7 +41,7 @@ const testimonials = [
   },
   {
     image: testimony_3,
-    testimony: 'I Really Enjoyed Working With Jacob',
+    testimony: 'I Really Enjoyed Working With Thabang',
     details: [
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra.',
     ],

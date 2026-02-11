@@ -62,7 +62,7 @@ const HeroSection = () => {
                 </ScaleImageWrapper>
               </div>
 
-              <p>Hi, Im Jacob</p>
+              <p>Hi, Im Thabang</p>
             </AboutJacob>
 
             <ContactBtn text="Work With Me" ml="-2rem" isContact={false} />
